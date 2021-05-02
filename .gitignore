@@ -8,6 +8,10 @@
 .AppleDouble
 .LSOverride
 
+
+# Database files
+data
+
 # Icon must end with two \r
 Icon
 
